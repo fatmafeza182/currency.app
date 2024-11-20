@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  background-image: url(../src/assets/images.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.div-app {
+  display: flex;
+  flex-direction: column;
+  justify-items: center;
+  align-items: center;
+}

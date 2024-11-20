@@ -1,0 +1,58 @@
+.currency-div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    margin-top: 40px;
+    border: 1px solid white;
+    width: 500px;
+    height: 180px;
+}
+
+.amount {
+    width: 80px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.from-currency-option {
+    width: 80px;
+    height: 25px;
+    margin-right: 1px;
+}
+
+.to-currency-option {
+    width: 80px;
+    height: 25px;
+    margin-right: 8px;
+}
+
+.amout2 {
+    width: 80px;
+    height: 25px;
+    margin-right: 10px;
+}
+
+.icon {
+    width: 50px;
+    color: blanchedalmond;
+}
+
+.text {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.button {
+    width: 80px;
+    height: 25px;
+    border-radius: 5px;
+    color: black;
+    background-color: white;
+    margin-top: 15px;
+    cursor: pointer;
+}
